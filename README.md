@@ -1,7 +1,7 @@
 #带饼状图的CV模板分享
 
-模板参考来源1：http://www.latexstudio.net/extended-fancy-cv-carmine-benedetto-latex-template/
-模板参考来源2：http://www.latexstudio.net/a-latex-texture-resume-template-sharing/
+* 模板参考来源1：http://www.latexstudio.net/extended-fancy-cv-carmine-benedetto-latex-template/
+* 模板参考来源2：http://www.latexstudio.net/a-latex-texture-resume-template-sharing/
 
 ## 此模板的主要修改工作
 
